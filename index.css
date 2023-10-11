@@ -1,0 +1,98 @@
+body {
+    background: linear-gradient(#e100ff 0%,#7f00ff 15%, #3a016f 35%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.gilangg {
+    width: 200px;
+}
+.profile h2 {
+    color: white;
+}
+.profile h5 {
+    color: white;
+}
+.biodata {
+    background-color: white;
+    padding-bottom:  15px;
+    padding-top: 15px;
+}
+.accordion-body {
+    background-color: #7f00ff;
+    color: white;
+}
+.motto {
+    background-color: white;
+}
+.mottoo {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.shadow {
+    color: white;
+    background: linear-gradient(#e100ff 0%,#7f00ff 50% , #7f00ff  40%);
+}
+.tk {
+    background:linear-gradient(white 0%, #7f00ff 100%);
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+.sd {
+    background:linear-gradient(#7f00ff 0%, white 100%);
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+.smp {
+    background:linear-gradient(white 0%, #7f00ff 100%);
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+.sma {
+    background:linear-gradient(#7f00ff 0%, white 100%);
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+.unm {
+    background:linear-gradient(white 0%, #7f00ff 50%, white 90%);
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+.carousel-item {
+    width: 900px;
+    height: 900px;
+    justify-content: center;
+    align-items: center;
+}
+.pengalaman {
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 20px;
+}
+.gambar {
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    transition: 1ms ease;
+}
+.biodataa {
+    margin-top: 20px;
+}
+.matkul {
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#e100ff 0%,#7f00ff 45%, #3a016f 60%, #e100ff 90%);
+    border: 4px solid black;
+    color: aliceblue;
+}
